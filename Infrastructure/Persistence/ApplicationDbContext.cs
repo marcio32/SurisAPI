@@ -28,8 +28,8 @@ namespace Infrastructure.Persistence
             var user = new ApplicationUser
             {
                 Id = "1",
-                UserName = "admin",
-                NormalizedUserName = "ADMIN",
+                UserName = "marcio",
+                NormalizedUserName = "MARCIO",
                 Email = "marcioabriola@gmail.com",
                 NormalizedEmail = "MARCIOABRIOLA@GMAIL.COM",
                 EmailConfirmed = true
