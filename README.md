@@ -53,7 +53,7 @@ Iniciar sesión
     Método: POST
     Cuerpo:
     {
-      "username": "admin",
+      "username": "marcioabriola@gmail.com",
       "password": "1234"
     }
     
